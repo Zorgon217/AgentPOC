@@ -1,0 +1,6 @@
+streamlit
+openai
+tavily-python
+python-dotenv
+supabase 
+streamlit-supabase-auth
