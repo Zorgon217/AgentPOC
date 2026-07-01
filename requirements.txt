@@ -1,6 +1,0 @@
-streamlit==1.40.2
-groq==0.13.0
-tavily-python==0.3.15
-python-dotenv==1.0.1
-supabase==2.4.4
-streamlit-supabase-auth==0.2.61
